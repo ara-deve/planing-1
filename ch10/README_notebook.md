@@ -161,8 +161,8 @@ Level 1: 정책 시범사업 운영 (전체)
 
 ## 실습 파일
 
-- 정규 수업 노트북: `ch12.ipynb`
-- 간단 실행 스크립트: `code/12-execution-vibecoding.py`
+- 정규 수업 노트북: `ch10.ipynb`
+- 간단 실행 스크립트: `code/10-execution-vibecoding.py`
 
 ## 제출물
 

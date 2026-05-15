@@ -76,8 +76,8 @@
 
 ## 실습 파일
 
-- 정규 수업 노트북: `ch09.ipynb`
-- 간단 실행 스크립트: `code/9-bayesian-vibecoding.py`
+- 정규 수업 노트북: `ch06.ipynb`
+- 간단 실행 스크립트: `code/6-bayesian-vibecoding.py`
 
 ## 제출물
 
